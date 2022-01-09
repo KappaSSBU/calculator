@@ -1,19 +1,19 @@
 # Python Program to Make a Simple Calculator
 
-def multiplication(num1, num2):
-    return num1 * num2
+def multiplication(num0, num1):
+    return num0 * num1
 
 
-def addition(num1, num2):
-    return num1 + num2
+def addition(num0, num1):
+    return num0 + num1
 
 
-def subtraction(num2, num1):
-    return num1 - num2
+def subtraction(num0, num1):
+    return num0 - num1
 
 
-def divide(num1, num2):
-    return num1 / num2
+def divide(num0, num1):
+    return num0 / num1
 
 
 value1 = int(input("Enter 1st number: "))
